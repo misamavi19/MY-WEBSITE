@@ -1,0 +1,37 @@
+ html.
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>The Internet of Things: A Significant Evolution in Interaction and Connectivity</title>
+
+</head>
+
+<style>
+
+   body {
+
+        text-align: center;
+
+    }
+
+</style>
+
+<body>
+
+    <h1>The Internet of Things: A Significant Evolution in Interaction and Connectivity</h1>
+
+    <marquee behavior="scroll" direction="left">This is my scrolling text!</marquee>
+
+    <p style="color: green; font-size: 18px;">live your life to the fullest..</p>
+
+    <img src="mavi.jpg.jpg" alt="My Picture" width="300">
+
+    <li><a href="⁦https://1drv.ms/w/c/b307a20ef0f406bd/ESbQyIYHYRFMlEtdJbuGEEIBWjTiq1BW1uA7oT5-QgoabA?e=Kp4asb⁩">"MY ARTICLE"</a></li>
+
+</body>
+
+</html>
